@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa53cc553e2388e45abe7a831e7ea388, type: 3}
+  m_Name: QuizQuestionData_4
+  m_EditorClassIdentifier: Assembly-CSharp::QuizQuestionData
+  questionText: What is a heuristic (h) in the context of the A* algorithm?
+  options:
+  - An exact measurement of the final path
+  - A "guess" or estimate of the remaining distance to the target
+  - The weight of the starting edge
+  - The total number of nodes visited
+  correctOptionIndex: 1
